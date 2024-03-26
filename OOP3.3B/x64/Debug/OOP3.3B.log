@@ -1,0 +1,7 @@
+﻿  LongLong.cpp
+D:\programyvanya\OOP3.3B\OOP3.3B\LongLong.cpp(30,17): warning C4018: '<': signed/unsigned mismatch
+  OOP3.3B.cpp
+  Pair.cpp
+D:\programyvanya\OOP3.3B\OOP3.3B\Pair.cpp(63,17): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  OOP3.3B.vcxproj -> D:\programyvanya\OOP3.3B\x64\Debug\OOP3.3B.exe

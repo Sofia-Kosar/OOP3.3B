@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  UnitTest3.3В.cpp
+D:\programyvanya\OOP3.3B\OOP3.3B\LongLong.cpp(30,17): warning C4018: '<': signed/unsigned mismatch
+D:\programyvanya\OOP3.3B\OOP3.3B\Pair.cpp(63,17): warning C4018: '<': signed/unsigned mismatch
+     Creating library D:\programyvanya\OOP3.3B\x64\Debug\UnitTest3.3В.lib and object D:\programyvanya\OOP3.3B\x64\Debug\UnitTest3.3В.exp
+LINK : warning LNK4232: name UnitTest3.3В.dll contains non-ASCII characters, DLL may not load on system with ANSI codepage other than 1251
+  UnitTest3.3В.vcxproj -> D:\programyvanya\OOP3.3B\x64\Debug\UnitTest3.3В.dll
